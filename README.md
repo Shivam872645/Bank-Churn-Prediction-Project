@@ -117,7 +117,3 @@ This project demonstrates the effectiveness of machine learning techniques in pr
 
 ---
 
-## 👤 Author
-
-**Shivam Yadav**  
-Aspiring Data Scientist | Machine Learning & Analytics Enthusiast  
